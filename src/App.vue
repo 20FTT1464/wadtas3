@@ -5,7 +5,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
-    <div class="bg-blue-200">
+    <div>
       <div class="w-1/2 mx-auto">
         <span class="block sm:hidden ">Mobile View</span><span class="hidden sm:block">PC/Tablet View</span>
       </div>
